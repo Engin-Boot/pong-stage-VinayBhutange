@@ -20,7 +20,7 @@ Given -Game is working fine.
 
 When -User never logged into the game, he is a new player.
 
-Then -Ask user to SignUp.
+Then -Ask user to Sign Up.
 
 ### Scenario: User has account but currently the user has logged out
 
