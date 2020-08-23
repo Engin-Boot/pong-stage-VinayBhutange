@@ -22,7 +22,7 @@ When -User never logged into the game, he is a new player.
 
 Then -Ask user to SignUp.
 
-### Scenario: User has account but currently the player has logged out.
+### Scenario: User has account but currently the player has logged out
 
 Given -Working internet connection.
 
