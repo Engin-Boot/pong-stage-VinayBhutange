@@ -10,7 +10,7 @@ Players' account for tracking performance.
 
 Given -Player has logged in.
 
-When -Player enters into the account secction.
+When -Player enters into the account section.
 
 Then -Show his account details.
 
