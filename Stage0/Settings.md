@@ -3,11 +3,16 @@
 ## Feature
 
 General setting of game includes
-        Account
-        Sound
-        Speed of ball
-        paddle setting
-        reset game
+
+### Account
+
+### Sound
+
+### Speed of ball
+
+### paddle setting
+
+### reset game
 
 ### Scenario: on clicking setting icon
 
