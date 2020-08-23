@@ -6,7 +6,7 @@ Players' account for tracking performance.
 
 ## Acceptance Criteria
 
-### Sceanario: User has already account
+### Scenario: User has already account
 
 Given -Player has logged in.
 
@@ -22,7 +22,7 @@ When -User never logged into the game, he is a new player.
 
 Then -Ask user to SignUp.
 
-### Scenario: User has account but currently the player has logged out
+### Scenario: User has account but currently the user has logged out
 
 Given -Working internet connection.
 
