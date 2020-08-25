@@ -6,7 +6,7 @@ Start a new game
 
 ## Acceptance Criteria
 
-### Scenario: The player is freshly downloaded the game
+### Scenario: The player has freshly downloaded the game
 
   Given -The game is in working condition
 
