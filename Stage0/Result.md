@@ -2,7 +2,8 @@
 
 ## Feature
 
-This module displays the result of the game. It displays name of the winner along with their score.
+This module displays the result of the game.
+It displays name of the winner along with their score.
 
 ## Acceptance Criteria
 
