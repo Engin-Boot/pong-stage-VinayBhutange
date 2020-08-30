@@ -2,12 +2,19 @@
 
 ## Startup Sequence
 
--describe-how-your-modules-interact-to-start
+Player clicks New game
+Player profile gets updated
+Gameplay begins.
+Collision detection module detects the collision .
+Score module updates the score and declare winner.
+Quit.
 
 ## Movement Initiation
 
--describe-how-modules-interact-to-make-the-ball-move
+As players starts the game the movement of ball gets started and whenever it collides with the pad or boundary according to which the collsion module detects the collsion and the direction module changes the direction of ball .
 
 ## One score
 
--describe-how-the-modules-interact-to-record-scores
+Collision detector module detects the collision and players gets a point and score module updates the score.
+If the score crosses 10,
+Result module declares the winner.
