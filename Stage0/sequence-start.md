@@ -4,7 +4,7 @@
 
 Player clicks New game
 Player profile gets updated
-Gameplay begins.
+Game play begins.
 Collision detection module detects the collision .
 Score module updates the score and declare winner.
 Quit.
@@ -13,7 +13,7 @@ Quit.
 
 As players starts the game the movement of ball gets started
 and whenever it collides with the pad or boundary according to
-which the collsion module detects the collsion
+which the collision module detects the collision
 and the direction module changes the direction of ball .
 
 ## One score
