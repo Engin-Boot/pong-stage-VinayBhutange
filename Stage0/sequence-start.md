@@ -11,10 +11,14 @@ Quit.
 
 ## Movement Initiation
 
-As players starts the game the movement of ball gets started and whenever it collides with the pad or boundary according to which the collsion module detects the collsion and the direction module changes the direction of ball .
+As players starts the game the movement of ball gets started
+and whenever it collides with the pad or boundary according to
+which the collsion module detects the collsion
+and the direction module changes the direction of ball .
 
 ## One score
 
-Collision detector module detects the collision and players gets a point and score module updates the score.
+Collision detector module detects the collision
+and players gets a point and score module updates the score.
 If the score crosses 10,
 Result module declares the winner.
